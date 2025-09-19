@@ -2,6 +2,6 @@
 
 int main()
 {
-    hello_world();  // appelle ta fonction
-    return 0;       // retourne 0 = succès
+    hello_world();  
+    return 0;       
 }

@@ -1,3 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+ 
+ if(NOT TARGET basic)
+ # set the project name
+ project(HelloProjTest)
+ find_package(HelloProj)
+ enable_testing()
+endif()
+
+
 add_executable(test-hello test-hello.cpp)
 target_link_libraries(test-hello PUBLIC basic)
 add_test( NAME test-hello COMMAND test-hello)

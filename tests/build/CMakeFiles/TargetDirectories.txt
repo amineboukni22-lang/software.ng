@@ -1,0 +1,5 @@
+C:/Users/USER/software.ng/tests/build/CMakeFiles/test-hello.dir
+C:/Users/USER/software.ng/tests/build/CMakeFiles/test-version.dir
+C:/Users/USER/software.ng/tests/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/USER/software.ng/tests/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/software.ng/tests/build/CMakeFiles/ZERO_CHECK.dir

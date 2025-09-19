@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\software.ng\\tests\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843786BD-09D2-320C-B000-80CA2839AAE9}|test-hello.vcxproj|C:\\Users\\USER\\software.ng\\tests\\test-hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AC10A-14E7-3862-BFF4-2D1F0B2B6744}|ALL_BUILD.vcxproj|C:\\Users\\USER\\software.ng\\tests\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test-hello.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\software.ng\\tests\\test-hello.cpp",
+              "RelativeDocumentMoniker": "..\\test-hello.cpp",
+              "ToolTip": "C:\\Users\\USER\\software.ng\\tests\\test-hello.cpp",
+              "RelativeToolTip": "..\\test-hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T12:52:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\software.ng\\tests\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\USER\\software.ng\\tests\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-19T12:52:21.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
