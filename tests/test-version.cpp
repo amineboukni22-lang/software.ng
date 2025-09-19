@@ -2,6 +2,6 @@
 
 int main()
 {
-    print_version();  // appelle une fonction
-    return 1;         // retourne 1 = échec
+    print_version();  // affiche la version
+    return 0;          // retourne 0 = succès
 }

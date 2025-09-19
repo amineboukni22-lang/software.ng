@@ -1,8 +1,8 @@
-add_executable(test_hello test-hello.cpp)
- target_link_libraries(test_hello PUBLIC basic)
- add_test( NAME test_hello COMMAND test_hello)
+add_executable(test-hello test-hello.cpp)
+target_link_libraries(test-hello PUBLIC basic)
+add_test( NAME test-hello COMMAND test-hello)
  
 
-add_executable(test_version test-version.cpp)
- target_link_libraries(test_version PUBLIC basic)
- add_test( NAME test_version COMMAND test_version)
+add_executable(test-version test-version.cpp)
+target_link_libraries(test-version PUBLIC basic)
+add_test( NAME test-version COMMAND test-version)
